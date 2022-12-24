@@ -199,7 +199,7 @@ text = ""
 server_address = 'http://192.168.0.108:5000'
 headers = {'Content-type': 'application/json', 'Accept': 'text/plain'}
 
-server.login('teacherdemochitkara@gmail.com', 'solsnoqhucatksdd')
+server.login('muneesh1512@gmail.com', 'fhsjtotezlevisdg')
 
 with open ('student.csv', 'w', newline='') as f:
         coloumn = ['Name', 'Date', 'Time']
